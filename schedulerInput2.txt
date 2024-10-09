@@ -1,0 +1,3 @@
+schedule work 55 30
+schedule fun 40 30
+run 50
