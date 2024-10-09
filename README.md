@@ -20,7 +20,9 @@ Java Programming: Leveraged Java’s built-in libraries for data manipulation an
 Performance Testing and Graphing: Conducted experiments with different datasets and analyzed results using plotting tools to compare performance metrics.
 Dynamic Resizing Techniques: Implemented dynamic resizing for hash tables to maintain performance.
 
+
 How to Run
+
 Heap Operations: Execute MergeMinPQ with different random seeds to test merging priority queues and validating sorted output.
 Scheduler: Run HWScheduler with various input files specifying tasks and time commands to simulate the earliest deadline first scheduling.
 Quadratic Probing Hash Table: Use QuadraticProbingHashST for inserting, deleting, and retrieving keys, and validate the table's resizing behavior.
