@@ -1,5 +1,7 @@
 Priority-Queue-and-Hash-Table-Algorithms
+
 This project centered around implementing and testing algorithms for data structures, including priority queues, heaps, and hash tables using quadratic probing. It covered merging sorted data, implementing an earliest deadline first scheduler, building a hash table with quadratic probing, and conducting experiments with different symbol table implementations.
+
 
 Features
 
@@ -8,7 +10,9 @@ Earliest Deadline First Scheduler: Developed a scheduler that prioritized tasks 
 Quadratic Probing Hash Table: Built a hash table that handled collisions using quadratic probing and dynamically resized based on the load factor.
 Symbol Table Experiments: Compared various symbol table implementations, analyzing their performance using different text datasets for operations like get, put, and contains.
 
+
 Skills Used
+
 Data Structure Implementation: Developed algorithms for heaps, priority queues, and hash tables using quadratic probing.
 Algorithm Design and Analysis: Designed efficient data structure operations and analyzed their performance across different inputs.
 Scheduling Algorithms: Implemented real-time scheduling using a priority-based approach.
